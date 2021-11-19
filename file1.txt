@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bla bla
+=======
+bla bla bla
+>>>>>>> 82877d1 (commit b2-1)
